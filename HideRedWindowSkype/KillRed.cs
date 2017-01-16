@@ -39,7 +39,7 @@ namespace HideRedWindowSkype
         {
             get
             {
-                return FindWindow("TSimpleSelection", "");
+                return FindWindow("TSimpleSelection", ""); //the red window
             }
         }
 
