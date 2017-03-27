@@ -7,8 +7,8 @@
     <ProjectGuid>{5352D68A-E555-486B-AF71-42FCBCE8DE98}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HideRedWindowSkype</RootNamespace>
-    <AssemblyName>HideRedWindowSkype</AssemblyName>
+    <RootNamespace>KillRed</RootNamespace>
+    <AssemblyName>KillRed</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
